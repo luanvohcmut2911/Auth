@@ -1,7 +1,11 @@
 # Auth
 
 .env
+
 MONGO_URI = mongodb://127.0.0.1:27017/Auth
+
 JWT_SECRET_KEY = ahbgf4532h4123h5743jh
+
 JWT_REFRESH_SECRET_KEY = tryu78qtwnbds015
+
 PORT = 5000
